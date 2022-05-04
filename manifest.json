@@ -1,4 +1,6 @@
-{   "name": "Todo App",
+{  
+    "homepage": "https://anders-kodehode.github.io/Todo-App/", 
+    "name": "Todo App",
     "short_name": "Todo",
     "icons": [
       {
